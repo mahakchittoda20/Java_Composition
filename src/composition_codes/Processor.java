@@ -70,3 +70,11 @@ public class Processor {
 		return maxfrequency;
 	}
 }
+/* This class represents a processor (CPU) and contains attributes such as brand, series, generation, cores, threads, cacheMemory, frequency, minFrequency, and maxFrequency.
+
+Similar to the other classes, it has a default constructor and a parameterized constructor.
+
+There are getter methods for each attribute to retrieve their values.
+
+The toString() method is overridden to provide a string representation of the processor's attributes.
+*/
