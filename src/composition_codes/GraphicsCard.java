@@ -31,3 +31,11 @@ public class GraphicsCard {
 	}
 	
 }
+/*This class represents a graphics card and contains attributes such as brand, series, and memory.
+
+Similar to the Laptop class, it has a default constructor and a parameterized constructor.
+
+There are getter methods for each attribute to retrieve their values.
+
+The toString() method is overridden to provide a string representation of the graphics card's attributes.
+*/
