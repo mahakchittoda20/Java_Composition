@@ -58,3 +58,15 @@ public String getKeyboard() {
 }
 
 }
+
+/*
+This class represents a laptop and contains various attributes such as screen, processor, ram, hardDrive, graphicsCard, opticalDrive, and keyboard.
+
+The class has two constructors:
+
+The default constructor (Laptop()) initializes the laptop with default values.
+The parameterized constructor allows you to specify values for each attribute when creating a laptop object.
+There are getter methods for each attribute to retrieve their values.
+
+The toString() method is overridden to provide a string representation of the laptop's attributes.
+*/
